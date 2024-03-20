@@ -18,4 +18,4 @@ Link to live application:
 https://raytrilla.github.io/Work-Day-Scheduler/
 
 Github repo link: 
-Github repository Link: https://github.com/raytrilla/Work-Day-Scheduler
+https://github.com/raytrilla/Work-Day-Scheduler
