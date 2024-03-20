@@ -14,5 +14,8 @@ The application is designed to follow this criteria:
 Here is an example of the application at work:
 [Work Day Scheduler.webm](https://github.com/raytrilla/Work-Day-Scheduler/assets/151631423/64f87c7b-950a-4bb7-a96c-4b960aa4bef5)
 
+Link to live application:
+https://raytrilla.github.io/Work-Day-Scheduler/
+
 Github repo link: 
 Github repository Link: https://github.com/raytrilla/Work-Day-Scheduler
