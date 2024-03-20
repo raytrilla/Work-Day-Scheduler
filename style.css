@@ -27,6 +27,21 @@ header .lead {
   margin-bottom: 20px;
 }
 
+/* Clear button styles */
+#clearScheduleBtn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#clearScheduleBtn:hover {
+  background-color: #c82333;
+}
+
 /* Container styles */
 .container {
   margin-top: 20px;
@@ -72,17 +87,18 @@ header .lead {
   background-color: #0056b3;
 }
 
-/* Clear button styles */
-#clearScheduleBtn {
-  background-color: #dc3545;
+/* Color-coding classes */
+.past {
+  background-color: #d3d3d3;
   color: white;
-  border: none;
-  border-radius: 5px;
-  padding: 5px 10px;
-  cursor: pointer;
-  margin-top: 10px;
 }
 
-#clearScheduleBtn:hover {
-  background-color: #c82333;
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
 }
